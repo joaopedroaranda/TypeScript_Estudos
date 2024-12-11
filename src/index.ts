@@ -27,5 +27,5 @@ enum Direction {
 }
 
 const direction = Direction.Left
-
+//a
 console.log(direction);
